@@ -3,7 +3,7 @@
 \name{GetWeight}
 \alias{GetWeight}
 \title{GetWeight
-Calculate weights on standardized data.}
+Calculate weights on standardized data us the entropy method.}
 \usage{
 GetWeight(data)
 }
@@ -15,7 +15,7 @@ WeightEij is Ej value of Index,weight is weight value of Index
 }
 \description{
 GetWeight
-Calculate weights on standardized data.
+Calculate weights on standardized data us the entropy method.
 }
 \examples{
 \dontrun{

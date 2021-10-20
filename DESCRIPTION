@@ -1,12 +1,13 @@
 Package: WtTopsis
-Title: Weighted TOPSIS method for multiple-criteria decision making (MCDM)
+Title: Weighted Method for Multiple-Criteria Decision Making
 Version: 1.0
 Authors@R: 
     person(given = "zhengyu",
            family = "wu",
            role = c("aut", "cre","ctb"),
            email = "zhengyuwu888@163.com")
-Description: Evaluation of alternatives based on multiple criteria using Weighted TOPSIS method.
+Maintainer: zhengyu wu <zhengyuwu888@163.com>
+Description: Evaluation of alternatives based on multiple criteria using Weighted Technique for Order Preference by Similarity to an Ideal Solution method.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

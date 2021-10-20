@@ -1,5 +1,5 @@
 #' GetWeight
-#' Calculate weights on standardized data.
+#' Calculate weights on standardized data us the entropy method.
 #' @param data A Normalized data set
 #'
 #' @return WeightEij is Ej value of Index,weight is weight value of Index
