@@ -14,7 +14,7 @@ multiple-criteria decision making (MCDM).
 You can install WtTopsis like so:
 
 ``` r
-devtools::install_github("zhengyuwu888/WtTopsis")
+devtools::install_github("zhengyu888/WtTopsis")
 ```
 
 ## Example

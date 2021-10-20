@@ -25,7 +25,7 @@ The goal of WtTopsis is to provide a Weighted TOPSIS method for multiple-criteri
 You can install WtTopsis like so:
 
 ``` r
-devtools::install_github("zhengyuwu888/WtTopsis")
+devtools::install_github("zhengyu888/WtTopsis")
 ```
 
 ## Example
