@@ -19,9 +19,3 @@ Index column maximized.
 Errmax
 Function on error.
 }
-\examples{
-\dontrun{
-i=10
-Errmax(sampleData,i)
-}
-}

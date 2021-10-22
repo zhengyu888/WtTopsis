@@ -18,7 +18,15 @@ WtTopsis
 Weighted TOPSIS method for multiple-criteria decision making (MCDM) us Normalized data.
 }
 \examples{
-\dontrun{
-WtTopsisN<-(sampleData)
+\donttest{
+sampleData<-sampleData
+mth<-c("ZH","ZJ","QJ","ZH","FU","ZH","QJ","FU","FU","ZH")
+zmth<-c(NA,NA,NA,NA,"CZ",NA,NA,"DS","CZ",NA)
+xbest<-c(NA,4,NA,NA,NA,NA,NA,NA,NA,NA)
+qup<-c(NA,NA,5,NA,NA,NA,5,NA,NA,NA)
+qlow<-c(NA,NA,3,NA,NA,NA,3,NA,NA,NA)
+maxdata<-data2max(sampleData,mth,zmth,xbest,qlow,qup)
+normaldata<-DataNormal(maxdata)
+WtTopsisN(normaldata)
 }
 }

@@ -12,7 +12,7 @@
 #' @export data2max
 #'
 #' @examples
-#' \dontrun{
+#' \donttest{
 #' sampleData<-sampleData
 #' mth<-c("ZH","ZJ","QJ","ZH","FU","ZH","QJ","FU","FU","ZH")
 #' zmth<-c(NA,NA,NA,NA,"CZ",NA,NA,"DS","CZ",NA)

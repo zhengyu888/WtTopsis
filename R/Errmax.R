@@ -4,12 +4,6 @@
 #' @param i Index column.
 #'
 #' @return Index column maximized.
-#'
-#' @examples
-#' \dontrun{
-#' i=10
-#' Errmax(sampleData,i)
-#' }
 Errmax<-function(x,i){
   sampleData2<-x
   i=i

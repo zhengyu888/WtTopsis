@@ -4,12 +4,6 @@
 #' @param i Index column
 #'
 #' @return Index column normalized
-#'
-#' @examples
-#' \dontrun{
-#' i=10
-#' DataNormalpre(sampleData,i)
-#' }
 DataNormalpre<-function(data,i){
   sampleData2<-data
   i=i

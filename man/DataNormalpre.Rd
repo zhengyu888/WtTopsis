@@ -19,9 +19,3 @@ Index column normalized
 DataNormalpre
 Prepare the normalized data set.
 }
-\examples{
-\dontrun{
-i=10
-DataNormalpre(sampleData,i)
-}
-}

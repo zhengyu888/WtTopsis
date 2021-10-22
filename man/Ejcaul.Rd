@@ -8,7 +8,7 @@ Calculate Ej value.}
 Ejcaul(data, i)
 }
 \arguments{
-\item{data}{A maximized data set.}
+\item{data}{A normalized data set.}
 
 \item{i}{Index column.}
 }
@@ -18,10 +18,4 @@ Index column weight Ej
 \description{
 Ejcaul
 Calculate Ej value.
-}
-\examples{
-\dontrun{
-i=10
-Ejcaul(sampleData,i)
-}
 }

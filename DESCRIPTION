@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre","ctb"),
            email = "zhengyuwu888@163.com")
 Maintainer: zhengyu wu <zhengyuwu888@163.com>
-Description: Evaluation of alternatives based on multiple criteria using Weighted Technique for Order Preference by Similarity to an Ideal Solution method.
+Description: Evaluation of alternatives based on multiple criteria using weighted technique for Order preference by similarity to an ideal solution method,Hwang (1981,ISSBN:978-3-540-10558-9).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

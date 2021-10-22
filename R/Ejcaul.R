@@ -1,15 +1,9 @@
 #' Ejcaul
 #' Calculate Ej value.
-#' @param data A maximized data set.
+#' @param data A normalized data set.
 #' @param i Index column.
 #'
 #' @return Index column weight Ej
-#'
-#' @examples
-#' \dontrun{
-#' i=10
-#' Ejcaul(sampleData,i)
-#' }
 Ejcaul<-function(data,i){
   WeightData<-data
   i=i
